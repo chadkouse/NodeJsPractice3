@@ -1,0 +1,17 @@
+{
+  "name": "People",
+  "version": "0.0.1",
+  "description": "Silly People Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Fleener",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.0.1",
+    "halacious": "^1.2.1",
+    "hapi": "^5.1.0",
+    "vogels": "^0.11.0"
+  }
+}
